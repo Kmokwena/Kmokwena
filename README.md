@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kmokwena
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently learning how to be a web developer
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
